@@ -1,6 +1,11 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
 import java.util.Scanner;
 
-public class test {
+public class prariknotortalama {
     public test() {
     }
 
