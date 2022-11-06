@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class test {
+public class nothesaplama {
     public static void main(String[] args) {
 
         int matematik, turkce, fizik, kimya, muzik, tarih;
