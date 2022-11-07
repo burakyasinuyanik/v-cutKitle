@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9c91f28-ea86-47a1-8826-8f8eb9eb455c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/kdv2hesaplama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DaireAlan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taksimetrehesaplama.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/de.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/de.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kdv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kdv.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nothesaplama.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +53,9 @@
       <recent name="C:\Users\Burak Yasin\IdeaProjects\javapatikasi" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.kdv2hesaplama">
-    <configuration name="kdv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kdv" />
+  <component name="RunManager" selected="Application.DaireAlan">
+    <configuration name="DaireAlan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DaireAlan" />
       <module name="javapatikasi" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,15 +68,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="nothesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nothesaplama" />
+    <configuration name="taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taksimetre" />
       <module name="javapatikasi" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="taksimetre" />
+    <configuration name="taksimetrehesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="taksimetrehesaplama" />
       <module name="javapatikasi" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DaireAlan" />
+        <item itemvalue="Application.taksimetrehesaplama" />
         <item itemvalue="Application.kdv2hesaplama" />
         <item itemvalue="Application.taksimetre" />
         <item itemvalue="Application.ucgenalan" />
-        <item itemvalue="Application.kdv" />
-        <item itemvalue="Application.nothesaplama" />
       </list>
     </recent_temporary>
   </component>
